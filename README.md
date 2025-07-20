@@ -1,6 +1,7 @@
 # Python URL Shortener Service
 
-![URL Shortener Demo]
+URL Shortener Demo
+
 
 A full-featured URL Shortener web service built with Python and Flask. This application converts long, unwieldy URLs into short, manageable links and includes advanced features like custom aliases and click-tracking analytics.
 
